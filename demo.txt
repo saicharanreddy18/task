@@ -1,1 +1,8 @@
 hi hello this my first program in git
+
+
+welcome to my world 
+some of my friends are 
+shiva 
+sandeep
+sudheer
